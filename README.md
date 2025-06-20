@@ -36,5 +36,11 @@ An Excel dashboard developed using pivot tables, slicers, and charts to help ana
 ---
 
 ## 📁 Project Structure
+├── call_centre_report.xlsx # Excel dashboard
+├── excel_project.png # Excel dashboard screenshot
+├── project.pbix # Power BI project file
+├── Screenshot 2025-06-20 120734.png # Power BI screenshot
+├── README.md # Project overview and details
+
 
 
