@@ -1,4 +1,4 @@
-# 📊 Data Analytics Projects
+# 📊 Data Analytics Projects 
 
 This repository showcases my data analytics work using **Power BI** and **Excel**, with a focus on visualizing real-world data in an insightful and interactive manner.
 
