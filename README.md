@@ -24,6 +24,9 @@ This Power BI report provides a visual breakdown of call centre metrics such as 
 ## 📈 Excel Project: Call Centre Report
 
 An Excel dashboard developed using pivot tables, slicers, and charts to help analyze call patterns and agent performance.
+### 📊 Excel Project
+
+Call Centre Analytics using Excel: [Download Excel Report](call_centre_report.xlsx)
 
 ![Excel Screenshot](excel_project.png)
 
