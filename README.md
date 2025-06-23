@@ -4,7 +4,7 @@ This repository showcases my data analytics work using **Power BI** and **Excel*
 
 ---
 
-## 🔷 Power BI Project: Call Centre Dashboard
+## 🔷 Power BI Project: Awesome Chocolate company's Dashboard
 
 This Power BI report provides a visual breakdown of call centre metrics such as total calls, agent performance, and call resolution trends.
 
